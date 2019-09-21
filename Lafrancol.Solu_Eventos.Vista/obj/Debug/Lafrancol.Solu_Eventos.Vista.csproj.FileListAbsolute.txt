@@ -1,0 +1,377 @@
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\RTVSS.dll.config
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\RTVSS.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\RTVSS.pdb
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\csc.exe
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\csc.exe.config
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\csc.rsp
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\csi.exe
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\csi.exe.config
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\csi.rsp
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.AppContext.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.Collections.Immutable.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.Console.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.IO.Compression.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.IO.FileSystem.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.IO.Pipes.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.Security.AccessControl.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.Security.Claims.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.ValueTuple.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.Xml.XPath.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\vbc.exe
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\vbc.exe.config
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\vbc.rsp
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\VBCSCompiler.exe
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\roslyn\VBCSCompiler.exe.config
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\Antlr3.Runtime.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\Microsoft.Web.Infrastructure.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\Newtonsoft.Json.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\System.Web.Helpers.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\System.Web.Mvc.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\System.Web.Optimization.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\System.Web.Razor.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\System.Web.WebPages.Deployment.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\System.Web.WebPages.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\System.Web.WebPages.Razor.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\WebGrease.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\System.Web.Helpers.xml
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\System.Web.Mvc.xml
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\System.Web.Optimization.xml
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\System.Web.Razor.xml
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\System.Web.WebPages.xml
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\System.Web.WebPages.Deployment.xml
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\System.Web.WebPages.Razor.xml
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\Newtonsoft.Json.xml
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\Antlr3.Runtime.pdb
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\es\System.Web.Helpers.resources.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\es\System.Web.Mvc.resources.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\es\System.Web.Optimization.resources.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\es\System.Web.Razor.resources.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\es\System.Web.WebPages.resources.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\obj\Debug\Lafrancol.Solu_Eventos.Vista.csproj.CoreCompileInputs.cache
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\obj\Debug\Lafrancol.Solu_Eventos.Vista.csproj.CopyComplete
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\obj\Debug\RTVSS.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\obj\Debug\RTVSS.pdb
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\LAFRANCOL\RTVSS\RTVSS\obj\Debug\Lafrancol.Solu_Eventos.Vista.csprojAssemblyReference.cache
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\RTVSS.dll.config
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\RTVSS.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\RTVSS.pdb
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\csc.exe
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\csc.exe.config
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\csc.rsp
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\csi.exe
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\csi.exe.config
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\csi.rsp
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.AppContext.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.Collections.Immutable.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.Console.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.IO.Compression.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.IO.FileSystem.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.IO.Pipes.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.Security.AccessControl.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.Security.Claims.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.ValueTuple.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.Xml.XPath.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\vbc.exe
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\vbc.exe.config
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\vbc.rsp
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\VBCSCompiler.exe
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\roslyn\VBCSCompiler.exe.config
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\Antlr3.Runtime.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\Microsoft.Web.Infrastructure.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\Newtonsoft.Json.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\System.Web.Helpers.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\System.Web.Mvc.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\System.Web.Optimization.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\System.Web.Razor.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\System.Web.WebPages.Deployment.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\System.Web.WebPages.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\System.Web.WebPages.Razor.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\WebGrease.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\System.Web.Helpers.xml
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\System.Web.Mvc.xml
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\System.Web.Optimization.xml
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\System.Web.Razor.xml
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\System.Web.WebPages.xml
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\System.Web.WebPages.Deployment.xml
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\System.Web.WebPages.Razor.xml
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\Newtonsoft.Json.xml
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\Antlr3.Runtime.pdb
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\es\System.Web.Helpers.resources.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\es\System.Web.Mvc.resources.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\es\System.Web.Optimization.resources.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\es\System.Web.Razor.resources.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\es\System.Web.WebPages.resources.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\obj\Debug\Lafrancol.Solu_Eventos.Vista.csprojAssemblyReference.cache
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\obj\Debug\Lafrancol.Solu_Eventos.Vista.csproj.CoreCompileInputs.cache
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\obj\Debug\Lafrancol.Solu_Eventos.Vista.csproj.CopyComplete
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\obj\Debug\RTVSS.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\obj\Debug\RTVSS.pdb
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\Lafrancol.Solu_Eventos.Dto.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\Negocios.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\Lafrancol.Solu_Eventos.Persistencia.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\EntityFramework.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\Lafrancol.Solu_Eventos.Transversal.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\Negocios.pdb
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\Lafrancol.Solu_Eventos.Dto.pdb
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\Lafrancol.Solu_Eventos.Persistencia.pdb
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\Lafrancol.Solu_Eventos.Persistencia.dll.config
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\EntityFramework.xml
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\Lafrancol.Solu_Eventos.Transversal.pdb
+C:\Back Up Carlos Sanchez\PERSONAL\Ude@\Analisis y Dño Sistemas II\Back Up\RTVSS\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\RTVSS.dll.config
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\RTVSS.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\RTVSS.pdb
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\csc.exe
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\csc.exe.config
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\csc.rsp
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\csi.exe
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\csi.exe.config
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\csi.rsp
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.AppContext.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.Collections.Immutable.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.Console.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.IO.Compression.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.IO.FileSystem.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.IO.Pipes.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.Reflection.Metadata.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.Security.AccessControl.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.Security.Claims.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.Security.Principal.Windows.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.ValueTuple.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.Xml.XPath.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\vbc.exe
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\vbc.exe.config
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\vbc.rsp
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\VBCSCompiler.exe
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\roslyn\VBCSCompiler.exe.config
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\Antlr3.Runtime.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\Lafrancol.Solu_Eventos.Dto.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\Microsoft.Web.Infrastructure.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\Negocios.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\Newtonsoft.Json.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\System.Web.Helpers.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\System.Web.Mvc.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\System.Web.Optimization.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\System.Web.Razor.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\System.Web.WebPages.Deployment.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\System.Web.WebPages.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\System.Web.WebPages.Razor.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\WebGrease.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\Lafrancol.Solu_Eventos.Persistencia.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\EntityFramework.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\Lafrancol.Solu_Eventos.Transversal.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\Negocios.pdb
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\Lafrancol.Solu_Eventos.Dto.pdb
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\System.Web.Helpers.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\System.Web.Mvc.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\System.Web.Optimization.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\System.Web.Razor.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\System.Web.WebPages.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\System.Web.WebPages.Deployment.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\System.Web.WebPages.Razor.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\Newtonsoft.Json.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\Antlr3.Runtime.pdb
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\Lafrancol.Solu_Eventos.Persistencia.pdb
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\Lafrancol.Solu_Eventos.Persistencia.dll.config
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\EntityFramework.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\Lafrancol.Solu_Eventos.Transversal.pdb
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\es\System.Web.Helpers.resources.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\es\System.Web.Mvc.resources.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\es\System.Web.Optimization.resources.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\es\System.Web.Razor.resources.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\es\System.Web.WebPages.resources.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\obj\Debug\Lafrancol.Solu_Eventos.Vista.csprojAssemblyReference.cache
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\obj\Debug\Lafrancol.Solu_Eventos.Vista.csproj.CoreCompileInputs.cache
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\obj\Debug\Lafrancol.Solu_Eventos.Vista.csproj.CopyComplete
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\obj\Debug\RTVSS.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS\RTVSS\obj\Debug\RTVSS.pdb
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\obj\Debug\Lafrancol.Solu_Eventos.Vista.csprojAssemblyReference.cache
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\obj\Debug\Lafrancol.Solu_Eventos.Vista.csproj.CoreCompileInputs.cache
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\obj\Debug\RTVSS.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\obj\Debug\RTVSS.pdb
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\RTVSS.dll.config
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\RTVSS.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\RTVSS.pdb
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\csc.exe
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\csc.exe.config
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\csc.rsp
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\csi.exe
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\csi.exe.config
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\csi.rsp
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\Microsoft.Managed.Core.targets
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.AppContext.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.Collections.Immutable.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.Console.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.IO.Compression.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.IO.FileSystem.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.IO.Pipes.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.Reflection.Metadata.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.Security.AccessControl.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.Security.Claims.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.Security.Principal.Windows.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.ValueTuple.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.Xml.XmlDocument.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.Xml.XPath.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\vbc.exe
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\vbc.exe.config
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\vbc.rsp
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\VBCSCompiler.exe
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\roslyn\VBCSCompiler.exe.config
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\Antlr3.Runtime.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\Lafrancol.Solu_Eventos.Dto.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\Microsoft.Web.Infrastructure.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\Negocios.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\Newtonsoft.Json.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\System.Web.Helpers.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\System.Web.Mvc.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\System.Web.Optimization.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\System.Web.Razor.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\System.Web.WebPages.Deployment.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\System.Web.WebPages.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\System.Web.WebPages.Razor.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\WebGrease.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\Lafrancol.Solu_Eventos.Persistencia.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\EntityFramework.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\Lafrancol.Solu_Eventos.Transversal.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\Negocios.pdb
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\Lafrancol.Solu_Eventos.Dto.pdb
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\System.Web.Helpers.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\System.Web.Mvc.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\System.Web.Optimization.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\System.Web.Razor.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\System.Web.WebPages.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\System.Web.WebPages.Deployment.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\System.Web.WebPages.Razor.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\Newtonsoft.Json.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\Antlr3.Runtime.pdb
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\Lafrancol.Solu_Eventos.Persistencia.pdb
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\Lafrancol.Solu_Eventos.Persistencia.dll.config
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\EntityFramework.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\Lafrancol.Solu_Eventos.Transversal.pdb
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\es\System.Web.Helpers.resources.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\es\System.Web.Mvc.resources.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\es\System.Web.Optimization.resources.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\es\System.Web.Razor.resources.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\es\System.Web.WebPages.resources.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\CARLOS\UDEA\Análisis y Dño Sistemas II\RTF3\BACK UP\RTVSS-\Lafrancol.Solu_Eventos.Vista\obj\Debug\Lafrancol.Solu_Eventos.Vista.csproj.CopyComplete
