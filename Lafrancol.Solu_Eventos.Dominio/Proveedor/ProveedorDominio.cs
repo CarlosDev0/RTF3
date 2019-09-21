@@ -18,11 +18,11 @@ namespace Negocios.ProveedorDominio
             return listaProveedores;
         }
 
-        public Proveedor guardarProveedor(ProveedorDto proveedorAGuardarDto)
+        public Proveedor guardar(ProveedorDto proveedorAGuardarDto)
         {
             ProveedorRepository proveedorRepository = new ProveedorRepository();
             Proveedor proveedorAGuardar = Proveedor.convertirDtoEnProveedor(proveedorAGuardarDto);
-            Proveedor proveedorGuardado = proveedorRepository.guardarProveedor(proveedorAGuardar);
+            Proveedor proveedorGuardado = proveedorRepository.guardar(proveedorAGuardar);
             return proveedorGuardado;
         }
     }

@@ -43,7 +43,7 @@ namespace RTVSS.Controllers.ProveedorController
         public ProveedorDto guardarProveedor(ProveedorDto proveedorAGuardarDto)
         {
             ProveedorDominio proveedorDominio = new ProveedorDominio();
-            Proveedor proveedorGuardado = proveedorDominio.guardarProveedor(proveedorAGuardarDto);
+            Proveedor proveedorGuardado = proveedorDominio.guardar(proveedorAGuardarDto);
 
             ProveedorDto proveedorGuardadoDto = ProveedorDto.convertirProveedorADto(proveedorGuardado);
             Proveedor proveedorAGuardar = new Proveedor();

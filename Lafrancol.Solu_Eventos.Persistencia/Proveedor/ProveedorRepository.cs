@@ -29,7 +29,7 @@ namespace Lafrancol.Solu_Eventos.Persistencia.ProveedorRepository
             return listaProveedores;
         }
 
-        public Proveedor guardarProveedor(Proveedor proveedorAGuardar)
+        public Proveedor guardar(Proveedor proveedorAGuardar)
         {
 
             DataTable dtProveedoresGuardados = accesoDatos.ejecutarDataSetWithDataTableP("DECLARE @new_identity INT; INSERT INTO [dbo].[tbProveedor] (razonSocial,nit,personaContacto,telefono,direccion, estado)" +
